@@ -7,3 +7,4 @@
 - 📫 How to reach me: ranjib@linux.com
 - 😄 Pronouns: he
 - ⚡ Fun fact: I am the author of [reef-pi](http://reef-pi.com), winner of Maker Faire Editors choice award, awesome chef [community member](https://github.com/chef/chef/blob/main/CHEF_MVPS.md) award and an ex-maintainer of [chef](https://github.com/chef/chef)
+- [Outreach](https://github.com/ranjib/ranjib/blob/main/outreach.md)
