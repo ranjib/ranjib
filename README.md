@@ -1,7 +1,4 @@
 ### Hi there 👋
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working as a staff engineer in Uber's production engineering group (similar to SRE & DevOps)
 - 🌱 I’m currently learning electronics, resiliency engineering and leadership skills
 - 👯 I’m looking to collaborate on resiliency engineering & observability of cloud native application
