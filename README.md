@@ -6,4 +6,4 @@
 - 💬 Ask me about web operations, incident management, AIOps, permaculture & reef keeping.
 - 📫 How to reach me: ranjib@linux.com
 - 😄 Pronouns: he
-- ⚡ Fun fact: I am author of [reef-pi](http://reef-pi.com), winner of Maker Faire Editors choice award and a core [chef](https://github.com/chef/chef) maintiner
+- ⚡ Fun fact: I am the author of [reef-pi](http://reef-pi.com), winner of Maker Faire Editors choice award, awesome chef [community member](https://github.com/chef/chef/blob/main/CHEF_MVPS.md) award and an ex-maintainer of [chef](https://github.com/chef/chef)
