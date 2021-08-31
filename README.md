@@ -1,5 +1,5 @@
 ### Hello 👋
-- 🔭 I'm a Engineer in Uber's production engineering group, working on day to day web operations
+- 🔭 I'm a software engineer in Uber's production engineering group, working on day to day web operations
 - 🌱 Currently I'm learning electronics, resiliency engineering (incident management, permaculture) and general leadership skills
 - 👯 I’m looking to collaborate on IoT/Physical computing, resiliency engineering & observability of cloud native application
 - 🤔 I’m looking for help with electronics, specifically complex multi output PSU designs and motor controls
